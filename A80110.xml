@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of passages, concerning his Excellency and officers, at the Tower of London where they dined yesterday, being Tuesday Feb. 1. 1647 and several speeches were made by his Excellency, and the lieutenant of the Tower and the rest of the officers. With the disbanding of all his Excellencies Life-guard. Also the copy of a letter sent from his Excellency to all collonels, and commanders in chief, in the Kingdome of England, and Dominion of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80110</idno>
+            <idno type="STC">Wing C5170</idno>
+            <idno type="STC">Thomason E425_6</idno>
+            <idno type="STC">ESTC R204552</idno>
+            <idno type="EEBO-CITATION">99864030</idno>
+            <idno type="PROQUEST">99864030</idno>
+            <idno type="VID">116249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116249)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E425[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of passages, concerning his Excellency and officers, at the Tower of London where they dined yesterday, being Tuesday Feb. 1. 1647 and several speeches were made by his Excellency, and the lieutenant of the Tower and the rest of the officers. With the disbanding of all his Excellencies Life-guard. Also the copy of a letter sent from his Excellency to all collonels, and commanders in chief, in the Kingdome of England, and Dominion of Wales.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 2d"; the 8 in imprint date crossed out and date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116249:1" rendition="simple:additions"/>
+            <p>A COLLECTION OF Paſſages, concerning his Excellency and Officers, at the TOWER OF LONDON: WHERE They Dined yeſterday, being <hi>Tueſday Feb.</hi> 1. 1647 AND Several Speeches were made by his Ex<g ref="char:EOLhyphen"/>cellency, and the Lieutenant of the Tower and the reſt of the Officers.</p>
+            <p>WITH <hi>The disbanding of all his Excellencies Life-Guard.</hi>
+            </p>
+            <p>ALSO The Copy of a Letter ſent from his Ex<g ref="char:EOLhyphen"/>cellency to all Collonels, and Commanders in Chief, in the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:116249:2"/>
+            <pb n="1" facs="tcp:116249:2"/>
+            <head>A NARRATIVE Of His Excellency Sir <hi>THOMAS FAIRFAX'S</hi> Comming To <hi>LONDON</hi> (to his Houſe in <hi>Queenſtreet</hi>) and his Dinner in the TOWER: To which his Excellency was invited by Col. <hi>Tit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hburn;</hi> Lieutenant of the Tower.</head>
+            <p>HIS Excellency Sir <hi>Thomas Fairfax</hi> with a few Gentlemen came from <hi>Winſor</hi> to <hi>London</hi> on Sa<g ref="char:EOLhyphen"/>turday January 29 (but had intended a day ſooner, onely was ſtayed to diſpatch ſome buſineſſe of conſe<g ref="char:EOLhyphen"/>quence at the Head-quarters,) And lyes at his owne Houſe in <hi>Queen-ſtreet,</hi> But the Head-quarters con<g ref="char:EOLhyphen"/>tinue at <hi>Winſor</hi> ſtill.</p>
+            <p>And for the eaſe of the Kingdome is disbanding of His own Life-Guard, that ſo the Kingdom may be put to as little charges as may be.</p>
+            <pb n="2" facs="tcp:116249:3"/>
+            <p>His Excellency was by Colonel <hi>Titchburne</hi> Lieu<g ref="char:EOLhyphen"/>tenant of the Tower of <hi>London,</hi> invited to dinner to the Tower on Tueſday <hi>February</hi> the firſt inſtant to which His Excellency granted.</p>
+            <p>And on the ſaid Tueſday in the morning Colonell Sir <hi>Hardreſſe Waler,</hi> Colonel <hi>Baxter,</hi> Colonell <hi>Wha<g ref="char:EOLhyphen"/>ley</hi> and ſeverall other Colonels and Officers waited upon His Excellency at His houſe in <hi>Queene ſtreete</hi> where His Excellency received, and anſwered ſeve<g ref="char:EOLhyphen"/>rall Petitions.</p>
+            <p>About 11 of the Clocke His Excellency with the Officers went from his Houſe and came to the Tow<g ref="char:EOLhyphen"/>er about 12. where His Excellency was entertained by the Lieutenant thereof, And dined.</p>
+            <p>His Excellency and Officers with the ſaid Leiute<g ref="char:EOLhyphen"/>nant were very cheerefull, and had ſuch good diſ<g ref="char:EOLhyphen"/>courſe of the mercies of God, as may be a patterne to all others in the Kingdome.</p>
+            <p>And this may remind us, and His Excellency and Officers alſo of that ſweet harmony which was in the reciprocall imbraces of all at the thankſgiving dinner which his Excellency lately invited his Officers to, at which time ther was a renumeration of the great mer<g ref="char:EOLhyphen"/>cies of God to them, at which time there was much of Gods goodneſſe repeated, and what wonderfull things God had done for them, which was a gene<g ref="char:EOLhyphen"/>rall meeting of above one hundred Officers, with ſuch imbraces and much love, and expreſſions of mirth and affections.</p>
+            <p>His Excellency on Tueſday aforeſaid came onely privately to dinner to the Tower, and kept no Coun<g ref="char:EOLhyphen"/>cell there, onely with the Lieutenant, and ſome Of<g ref="char:EOLhyphen"/>ficers
+<pb n="3" facs="tcp:116249:3"/> viewed the Artillery and the Magazeen, and made ſome inquiry into the ſtate of things.</p>
+            <p>Some ſpeeches paſſed from His Excellency, from the Lieutenant, and from the reſt, and all tending to love, and peace, and the execution of the Ordi<g ref="char:EOLhyphen"/>nances and Inſtructions, from the Parliament and to aſſiſt the two Houſes of Parliament againſt all op<g ref="char:EOLhyphen"/>poſers.</p>
+            <p>His Excellency gave ſome inſtructions to the Lieu<g ref="char:EOLhyphen"/>tenant of the Tower, and returned backe to His Houſe in <hi>Queene-ſtreete,</hi> but the Head quarters are ſtill at <hi>Winſor.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Dated at the Tower of</hi> London <date>
+                     <hi>Tueſday the 1 of Feb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="order">
+            <head>The Copy of an ORDER Sent to every Commander in Chiefe, incloſed in a Letter from his Excellency Sir <hi>Thomas Fairfax,</hi> Generall of all the Parliaments Forces, in <hi>England</hi> and <hi>VVales.</hi>
+            </head>
+            <p>BY vertue of a warrant to me directed from His Excellency Sir <hi>Thomas Fairfax</hi>
+               <pb n="4" facs="tcp:116249:4"/> Knight Generall of all the Forces in <hi>England</hi> and <hi>Wales,</hi> And according to, and in pur<g ref="char:EOLhyphen"/>ſuance of, the late Reſolutions and Orders of Parliament for disbanding of the ſuper<g ref="char:EOLhyphen"/>numerary Forces under my command, I do hereby publiſh and declare the of under the command of to be from hence forth Disbanded, And all Officers and Souldiers thereof are from henceforth diſcharged from any further com<g ref="char:EOLhyphen"/>mand or duty relating to each other as Of<g ref="char:EOLhyphen"/>ficers or Souldiers of the ſaid Troop, or otherwiſe in relation to the Service of the Parliament, And all and every of them are hereby required forth with to depart and re<g ref="char:EOLhyphen"/>paire to their ſeverall houſes or places of a<g ref="char:EOLhyphen"/>bode, or where their ſeverall occaſions doe lye, <hi>Given under my Hand and Seale.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <head>By His Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> Knight, Generall of all the Parliaments Forces in <hi>England</hi> and <hi>Wales.</hi>
+            </head>
+            <p>WHereas in purſuance of ſeverall Re<g ref="char:EOLhyphen"/>ſolutions and Orders of Parliament
+<pb n="5" facs="tcp:116249:4"/> for the disbanding of ſupernumerary For<g ref="char:EOLhyphen"/>ces.</p>
+            <p>I have lately given a Warrant or Order to you directed under my Hand and Seal wher<g ref="char:EOLhyphen"/>in under your Command were ap<g ref="char:EOLhyphen"/>pointed to be disbanded as Supernumeraries and all due compliance with the Commiſſi<g ref="char:EOLhyphen"/>oners of Parliament imployed for that pur<g ref="char:EOLhyphen"/>poſe and all ready obedience was required on your part in the diſpatch of that Ser<g ref="char:EOLhyphen"/>vice.</p>
+            <p>Theſe are further to authorize and require you That the thing appointed by the Parli<g ref="char:EOLhyphen"/>ament to be don in Order to disbanding be<g ref="char:EOLhyphen"/>ing performed, &amp; ſo ſoon as you ſhall be ther unto required by the ſaid Commiſſioners you doe cauſe Proclamation for disband<g ref="char:EOLhyphen"/>ing to be made and publiſhed in the head of each that is to be bisbanded, to the effect and according to the forme here in<g ref="char:EOLhyphen"/>cloſed; it is to paſſe in your Name, and un<g ref="char:EOLhyphen"/>der your hand and Seale, as by VVarrant from me.</p>
+            <p>And upon the publication thereof, you are to cauſe all Officers and Souldiers, of the
+<pb n="6" facs="tcp:116249:5"/> ſaid reſpective to ſeperate and de<g ref="char:EOLhyphen"/>part according to the effect thereof, and for ſo doing, this ſhall be your warrant.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under my Hand and Seale</hi> 
+                  <date>
+                     <hi>the firſt day of February, 1647.</hi>
+                  </date>
+               </dateline>
+               <salute>To Collonel or the Commander in cheife with His For<g ref="char:EOLhyphen"/>ces.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <date>Feb. 1. 1647.</date>
+            </opener>
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Gil. Mabbot</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
